@@ -1,4 +1,4 @@
-local fr = {}
+fr = {}
 
 function fr:PrintHw()
   print("Hello, World!")
